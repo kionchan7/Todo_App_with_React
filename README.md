@@ -1,9 +1,5 @@
 # Todo_App_with_React
-<<<<<<< HEAD
 Run `npm install`  
-=======
-Run `npm install`
->>>>>>> 3f944526ebee8537371df3f8b1e25077ef005126
 Run `npm start`  
 Open [http://localhost:3000](http://localhost:3000) to view it in the Google Chrome web browser.
 
